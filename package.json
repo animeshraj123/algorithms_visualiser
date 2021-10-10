@@ -1,6 +1,7 @@
 {
   "name": "algorithms-visualiser",
   "version": "0.1.0",
+  "homepage": "https://animeshraj123.github.io/algorithm_visualiser",
   "private": true,
   "dependencies": {
     "@indutny/maze": "^1.0.0",
