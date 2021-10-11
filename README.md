@@ -18,7 +18,7 @@
 * N-Queens
 * Word Searching
 ## Tech-stack
-* HTML, CSS, ReactJs.
+* HTML, CSS, ReactJs, Data Structure, Algorithms.
 ## Image
 ![algo](https://github.com/animeshraj123/algorithms_visualiser/blob/master/screen_shot.PNG)
 ## Developer 
