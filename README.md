@@ -1,5 +1,5 @@
 # Algorithms Visualiser
-[Live Demo](https://animeshraj123.github.io/algorithm_visualiser)
+[Live Demo](https://animeshraj123.github.io/algorithms_visualiser)
 ## Description
 * Path Finder
   * BFS
