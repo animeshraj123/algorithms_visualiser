@@ -2,7 +2,7 @@
   "name": "algorithms-visualiser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://animeshraj123.github.io/algorithm_visualiser",
+  "homepage": "https://animeshraj123.github.io/algorithms_visualiser",
   "dependencies": {
     "@indutny/maze": "^1.0.0",
     "@testing-library/jest-dom": "^4.2.4",
