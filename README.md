@@ -20,6 +20,6 @@
 ## Tech-stack
 * HTML, CSS, ReactJs.
 ## Image
-![algo](https://github.com/animeshraj123/algorithm_visualiser/blob/master/screen_shot.PNG)
+![algo](https://github.com/animeshraj123/algorithms_visualiser/blob/master/screen_shot.PNG)
 ## Developer 
 > * Animesh Raj
